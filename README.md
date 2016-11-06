@@ -1,0 +1,2 @@
+# linux
+Informações e script'
